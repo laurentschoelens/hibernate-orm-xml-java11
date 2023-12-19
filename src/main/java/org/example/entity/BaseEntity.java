@@ -14,7 +14,7 @@
 
 package org.example.entity;
 
-import javax.validation.constraints.Size;
+import jakarta.validation.constraints.Size;
 
 
 /**
